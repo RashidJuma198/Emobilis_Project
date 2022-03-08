@@ -1,0 +1,37 @@
+.signup{
+    border:1px solid black;
+  
+  
+   
+}
+.signbody{
+    background-color: rgb(32, 236, 14);
+}
+.signuptitle{
+    background-color: khaki;
+    text-align: center;
+    color:black ;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.formsignup{
+    
+    padding-bottom: 2px;
+    padding-top: 2px;
+    color:black ;
+    border: 30px;
+}
+.logsign{
+   border:1px solid black;
+   border-width: 1px;
+    margin-top: 2px;
+    margin-bottom: 100px;
+    max-width:300px;
+    max-height:400px ;
+    margin-left:200px;
+    padding-top: 50;
+    box-sizing: 80px;
+    padding-bottom:20px;
+    background-color: chartreuse;
+
+}

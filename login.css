@@ -1,0 +1,40 @@
+.logintitle{
+    color:rgb(1, 11, 12);
+    background-color: khaki;
+    border-color: khaki;
+    text-align: center;
+    
+   
+}
+body{
+    background-color: greenyellow;
+}
+form{
+    color:rgb(1, 11, 12);
+    text-align: center;
+    background-color: greenyellow;
+}
+input,.pass,.user{
+    border-left:none ;
+    border-top:none ;
+    border-right:none ;
+    background-color: greenyellow;
+    width:250px ;
+    border-style: solid black;
+    height: auto;
+}
+button:hover{
+    
+    background-color: lawngreen;
+    border:none
+}
+
+   
+
+fieldset{
+    height: auto;
+    width: 2px;
+}
+b{
+    color:khaki;
+}

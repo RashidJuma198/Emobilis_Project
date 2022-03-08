@@ -1,0 +1,126 @@
+.login {
+    position: relative;
+    margin: 100px auto;
+    width: 370px;
+    height: 315px;
+   background: rgba(255,255,255,0.05);
+      backdrop-filter: blur(10px);
+      border-top: 1px solid rgba(255,255,255,0.2);
+      border-left: 1px solid rgba(255,255,255,0.2);
+      box-shadow: 5px 5px 30px rgba(0,0,0,0.2);
+    border-radius: 3px;
+    
+  
+  }
+  body {
+    font: 13px/20px "Open Sans", Tahoma, Verdana, sans-serif;
+    color: #a7a599;
+    background-color: rgb(63, 224, 63);
+    
+  }
+  .login h1 {
+    line-height: 55px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    background: rgba(255,255,255,0.05);
+      backdrop-filter: blur(10px);
+      border-top: 1px solid rgba(255,255,255,0.2);
+      border-left: 1px solid rgba(255,255,255,0.2);
+      box-shadow: 5px 5px 30px rgba(0,0,0,0.2);
+      margin-top: 0px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+  }
+  .form {
+    width: 100%;
+  }
+  .form .field {
+    position: relative;
+    margin: 0 50px;
+  }
+  ::-webkit-input-placeholder {
+    color: #ffffff;
+    font-family: "Open Sans";
+  }
+  
+  .form input[type=text], input[type=password] {
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 10px 15px 10px 55px;
+    position: relative;
+    width: 200px;
+    height: 24px;
+    
+    border: none;
+    background: rgba(255,255,255,0.05);
+      backdrop-filter: blur(10px);
+      border-top: 1px solid rgba(255,255,255,0.2);
+      border-left: 1px solid rgba(255,255,255,0.2);
+      box-shadow: 5px 5px 30px rgba(0,0,0,0.2);
+    color: rgb(255, 255, 255);
+    transition: color 0.3s ease-out;
+  }
+  
+  .form input[type=text] {
+    margin-bottom: 15px;
+  }
+  .form .field i {
+    font-size: 18px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    height: 44px;
+    width: 44px;
+    color: #f7f3eb;
+    background: rgba(255,255,255,0.05);
+      backdrop-filter: blur(10px);
+      border-top: 1px solid rgba(255,255,255,0.2);
+      border-left: 1px solid rgba(255,255,255,0.2);
+      box-shadow: 5px 5px 30px rgba(0,0,0,0.2);
+    text-align: center;
+    line-height: 44px;
+    transition: all 0.3s ease-out;
+    pointer-events: none;
+  }
+  
+
+  .form  input[type=submit] 
+  {
+    margin-top: 30px;
+    font-size: 18px;
+    left: 50px;
+    top: 190px;
+    position: absolute;
+    height: 44px;
+    width: 273px;
+    color: #f7f3eb;
+    background: rgba(255,255,255,0.05);
+      backdrop-filter: blur(10px);
+      border-top: 1px solid rgba(255,255,255,0.2);
+      border-left: 1px solid rgba(167, 85, 85, 0);
+      box-shadow: 5px 5px 30px rgba(0,0,0,0.1);
+    text-align: center;
+    line-height: 44px;
+    transition: all 0.3s ease-out;
+    pointer-events: none;
+  
+    margin-bottom: 20px;
+  
+  }
+  .Title{
+      text-align: center;
+      color: #30ce38;
+      font-size: 30px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      background-color: rgb(253, 247, 188);
+      padding: auto;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      margin-left: 0px;
+      margin-right: 0px;
+  }

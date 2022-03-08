@@ -1,0 +1,24 @@
+fieldset,body,p{
+    width: 1000px;
+    margin-left: 15px;
+    border-radius: 10px;
+    border-color: black;
+}
+input{
+    border-color: rgb(196, 190, 190);
+    width: auto;
+    font-weight: bold;
+}
+.Title{
+    text-align: center;
+    background-color: khaki;
+    padding: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.inputdep{
+    width: auto;
+}
+body{
+    background-color: rgb(127, 226, 81);
+}

@@ -1,0 +1,10 @@
+body{
+    background-color: chartreuse;
+}
+.headd{
+    background-color: rgba(247, 239, 168, 1.0);
+    text-align: center;
+    font-family: 'Times New Roman';
+    padding:10px;
+    border-radius: 10px;
+}
